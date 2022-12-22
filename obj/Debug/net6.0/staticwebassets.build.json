@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gt283rxJEH7ep6ZuvTgq6xBFOytI43/pmJjhiSYvQw0=",
+  "Source": "DotNet-HelloWorld",
+  "BasePath": "_content/DotNet-HelloWorld",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
