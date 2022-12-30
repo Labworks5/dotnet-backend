@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "i6zRXstcQtfsVjjSM2fILM1HYpabjwO9LUE2TXOpwfnivowQzXHYe/H16lRUpxjnsNvB9w/d00ewhTyNmdHxfQ==",
+  "dgSpecHash": "KABWvE3g/ejCkUEgw4j/Bx8Xa2YDGI6z9nfYOoBDXXxeNuYIKiBas3nnu5yDdJOAXX+QlgX5fviRxgfTrQrg9w==",
   "success": true,
   "projectFilePath": "/home/dator/VSCodeProjects/DotNet-HelloWorld/DotNet-HelloWorld.csproj",
   "expectedPackageFiles": [
@@ -8,8 +8,9 @@
     "/home/dator/.nuget/packages/microsoft.entityframeworkcore/6.0.7/microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "/home/dator/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.7/microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
     "/home/dator/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.7/microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
-    "/home/dator/.nuget/packages/microsoft.entityframeworkcore.design/6.0.7/microsoft.entityframeworkcore.design.6.0.7.nupkg.sha512",
+    "/home/dator/.nuget/packages/microsoft.entityframeworkcore.design/6.0.1/microsoft.entityframeworkcore.design.6.0.1.nupkg.sha512",
     "/home/dator/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.7/microsoft.entityframeworkcore.relational.6.0.7.nupkg.sha512",
+    "/home/dator/.nuget/packages/microsoft.entityframeworkcore.tools/6.0.1/microsoft.entityframeworkcore.tools.6.0.1.nupkg.sha512",
     "/home/dator/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/dator/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "/home/dator/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
