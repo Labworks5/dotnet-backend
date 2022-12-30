@@ -25,3 +25,11 @@
 /home/dator/VSCodeProjects/DotNet-HelloWorld/obj/Debug/net6.0/ref/DotNet-HelloWorld.dll
 /home/dator/VSCodeProjects/DotNet-HelloWorld/obj/Debug/net6.0/DotNet-HelloWorld.pdb
 /home/dator/VSCodeProjects/DotNet-HelloWorld/obj/Debug/net6.0/DotNet-HelloWorld.genruntimeconfig.cache
+/home/dator/VSCodeProjects/DotNet-HelloWorld/bin/Debug/net6.0/Humanizer.dll
+/home/dator/VSCodeProjects/DotNet-HelloWorld/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/dator/VSCodeProjects/DotNet-HelloWorld/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/dator/VSCodeProjects/DotNet-HelloWorld/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/dator/VSCodeProjects/DotNet-HelloWorld/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/dator/VSCodeProjects/DotNet-HelloWorld/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/dator/VSCodeProjects/DotNet-HelloWorld/bin/Debug/net6.0/MySqlConnector.dll
+/home/dator/VSCodeProjects/DotNet-HelloWorld/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
